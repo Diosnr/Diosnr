@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEJe95PbL2YfrgL9tYO/q/cgng2pIL3MPMYjz2fZmN4F assistant@irunor-droplet
